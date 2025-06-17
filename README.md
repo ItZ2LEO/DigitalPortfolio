@@ -1,8 +1,8 @@
 # Data Science CV
 ## About Me
-I am a Apprentice Data Scientist at Amey to innovative and improve digital solutions within the transport infastructure sector. I am particualry intrested in using new innocative technology and how it can be harnessed to make creative solutions.
+I am an Apprentice Data Scientist at Amey, where I contribute to the innovation and enhancement of digital solutions within the transport infrastructure sector. I have a strong passion for exploring how emerging technologies can be harnessed to create impactful, forward-thinking solutions that drive efficiency and progress.
 
-Alongside my job at Amey. I am studying towards a BSc (Hons) Data Science which focuses on new and current Data Scinece themes and how they can be iused in the workplace. I personally, am finding this degree very intresting and wanting to lkearn nmore every day.
+Alongside my role at Amey, I am pursuing a BSc (Hons) in Data Science. This degree focuses on both current and emerging themes in the field, with a strong emphasis on real-world application. I find the subject incredibly engaging and am constantly motivated to deepen my knowledge and skills every day.
 ## Education
 - Level 3 in Information and Technology at Heart of Yorkshire Education Group  
 - HNC in Information and Technology at Heart of Yorkshire Education Group  
