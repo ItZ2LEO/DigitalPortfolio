@@ -25,5 +25,6 @@ GitHub Repo
 
 Bulit a machine learning model using random forest to predict if the S&P 500 will go up or down the next day. 
 Achieved 57% Accuracy
+
 *Tools:* Python, Pandas, Scikit-Learn
 
