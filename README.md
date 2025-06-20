@@ -13,3 +13,7 @@ Alongside my role at Amey, I am pursuing a BSc (Hons) in Data Science. This degr
 - Amey Apprentice Data Scientist 2024 - Present 
 ## Projects
 
+-**S&P 500 Price Direction Predicition**
+Bulit a machine learning model using random forest to predict if the S&P 500 will go up or down the next day. Achieved 57% Accuracy
+*Tools:* Python, Pandas, Scikit-Learn
+GitHub Repo
