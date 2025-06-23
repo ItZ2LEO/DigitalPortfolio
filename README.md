@@ -11,7 +11,7 @@ Alongside my role at Amey, I am pursuing a BSc (Hons) in Data Science. This degr
 - B&Q Store Assistant 2021 - 2023
 - B&Q Forlift Driver 2023 - 2024
 - Amey Apprentice Data Scientist 2024 - Present 
-## Projectsa
+## Projects
 -**S&P 500 Price Direction Predicition**
 
 Bulit a machine learning model using random forest to predict if the S&P 500 will go up or down the next day. 
