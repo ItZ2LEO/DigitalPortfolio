@@ -2,7 +2,7 @@
 
 In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
 
-**Project Steps**
+## Project Steps
 
 * Download data using the yfinance package
 * Create an initial machine learning model and estimate accuracy
