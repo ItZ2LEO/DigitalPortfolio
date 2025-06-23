@@ -11,7 +11,7 @@ In this project, I predicted wether the S&P 500 will close higher or lower the n
 
 ## Code
 
-You can find the code for this project [here](https://github.com/ItZ2LEO/DigitalPortfolio/edit/main/Stock_Market_Predictions/StockMarketPredictions.ipynb). This file is a Juypter notebook that contains all the code.
+You can find the code for this project [here](https://github.com/ItZ2LEO/DigitalPortfolio/edit/main/Stock_Market_Predictions). This file is a Juypter notebook that contains all the code.
 
 ## Resources
 
