@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
+DISCLAIMER, This project is for educational purposes only and should not be used as financial advice. In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
 
 ## Project Steps
 
