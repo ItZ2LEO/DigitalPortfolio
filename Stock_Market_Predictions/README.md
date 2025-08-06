@@ -1,6 +1,6 @@
 # Project Overview
 
-DISCLAIMER, This project is for educational purposes only and should not be used as financial advice. In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
+In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
 
 ## Project Steps
 
@@ -27,3 +27,7 @@ The following resoruces were used on this project:
 ## Data
 
 The data is used for this project was the 'yfinance' package.
+
+## DISCLAIMER
+
+This project is for educational purposes only and should not be used as financial advice. 
