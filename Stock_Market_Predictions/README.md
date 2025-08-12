@@ -1,6 +1,6 @@
 # Project Overview
 
-In this project, I predicted wether the S&P 500 will close higher or lower the next day. This model had 57% accuracy.
+In this project, the model predicts if the S&P 500 will close higher or lower the next day. This model has 57% accuracy. This is better than a baseline figure of always guessing the market will go up, which retruns 55% accuracy. This is a modest but signifcant improvemnent.
 
 ## Project Steps
 
