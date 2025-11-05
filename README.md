@@ -1,4 +1,4 @@
-# Data Science Portfolio
+# Digital Portfolio
 ## About Me
 I am an Apprentice Data Scientist at Amey, where I contribute to the innovation and enhancement of digital solutions within the transport infrastructure sector. I have a strong passion for exploring how emerging technologies can be harnessed to create impactful, forward-thinking solutions that drive efficiency and progress.
 
