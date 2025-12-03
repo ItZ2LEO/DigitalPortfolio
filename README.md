@@ -11,7 +11,7 @@ Alongside my role at Amey, I am pursuing a BSc (Hons) in Data Science. This degr
 
 ## Work Experience
 - B&Q Store Assistant 2021 - 2023
-- B&Q Forlift Driver 2023 - 2024
+- B&Q Forklift Driver 2023 - 2024
 - Amey Apprentice Data Scientist 2024 - Present
 
 ## Projects
