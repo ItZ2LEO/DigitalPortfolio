@@ -17,7 +17,7 @@ You can find the code for this project [here](https://github.com/ItZ2LEO/Digital
 
 The following resoruces were used on this project:
 
-* JupyerLab
+* JupyterLab
 * Python 3.8+
 * Python packages
     * pandas
