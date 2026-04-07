@@ -18,7 +18,7 @@ Alongside my role at Amey, I am pursuing a BSc (Hons) in Data Science. This degr
 
 -**S&P 500 Price Direction Predicition**
 
-Bulit a machine learning model using random forest to predict if the S&P 500 will go up or down the next day.You can find details of the project [here](https://github.com/ItZ2LEO/DigitalPortfolio/edit/main/Stock_Market_Predictions).
+Bulit a machine learning model using random forest to predict if the S&P 500 will go up or down the next day. You can find details of the project [here](https://github.com/ItZ2LEO/DigitalPortfolio/edit/main/Stock_Market_Predictions).
 
 Achieved 57% Accuracy. 
 
