@@ -25,3 +25,9 @@ Achieved 57% Accuracy.
 *Tools:* Python, Pandas, Scikit-Learn
 
 ---
+
+-**Extracting Road Closure using Selenium or API**
+
+As part of a university project I extracted data from the road closure report from National Highways website used two different methods of selenium and a API. After using these methods I compared their value and business impact. You can find details of the project [here](https://github.com/ItZ2LEO/DigitalPortfolio/edit/main/Stock_Market_Predictions).
+
+*Tools:* Python, Selenium, Pandas 
